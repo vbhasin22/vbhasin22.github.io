@@ -1,0 +1,74 @@
+body
+{
+	font: 11pt "Helvetica Neue",Helvetica,Arial,sans-serif;
+	/*font: 11pt "Lucida Grande",Tahoma,Verdana,Arial,sans-serif;*/
+	background-color: #dddddd;
+	color: #000055;
+	line-height: 1.5;
+}
+
+#content
+{
+	width: 800px;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #f8f8ff;
+	padding: 30px;
+}
+
+#header
+{
+	width: 100%;
+	overflow: hidden;
+	margin-bottom: 2em;
+}
+
+#title
+{
+	font-size: 4.5em;
+	font-weight: 200;
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+
+#title-small
+{
+	font-size: 2.0em;
+	font-weight: 200;
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+
+#subtitle
+{
+	text-align: right;
+	font-size: 110%;
+	font-style: italic;
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+
+a:link
+{
+	color: #2277FF;
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+a:active
+{
+	color: #dd9900
+}
+
+a:visited
+{
+	color: #1166EE;
+}
